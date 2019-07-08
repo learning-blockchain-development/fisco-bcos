@@ -29,7 +29,7 @@ curl -LO https://github.com/FISCO-BCOS/FISCO-BCOS/releases/download/`curl -s htt
 ```
 ./nodes/127.0.0.1/start_all.sh
 ```
-![](./2.png)
+![](./2.gif)
 
 检查进程
 
